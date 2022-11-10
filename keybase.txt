@@ -4,7 +4,7 @@ https://keybase.io/renaudp
 
 I hereby claim:
 
-  * I am an admin of https://blog.renaudp.dev
+  * I am an admin of https://blog.rpere.dev
   * I am renaudp (https://keybase.io/renaudp) on keybase.
   * I have a public key ASBKBQsIKyiiVh_8qNMk_93b5HN5K6q6rG6S-kaf8bWqoQo
 
