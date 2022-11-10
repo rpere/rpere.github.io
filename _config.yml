@@ -1,0 +1,25 @@
+timezone: America/Los_Angeles
+baseurl: /
+# Handling Reading
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+
+# Conversion
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "simple"
+
+# don't want .html at end of urls
+permalink: pretty
+
+extensions: [fenced_code_blocks]

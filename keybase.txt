@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/renaudp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.renaudp.dev
+  * I am renaudp (https://keybase.io/renaudp) on keybase.
+  * I have a public key ASBKBQsIKyiiVh_8qNMk_93b5HN5K6q6rG6S-kaf8bWqoQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204a050b082b28a2561ffca8d324ffdddbe473792baabaac6e92fa469ff1b5aaa10a",
+      "host": "keybase.io",
+      "kid": "01204a050b082b28a2561ffca8d324ffdddbe473792baabaac6e92fa469ff1b5aaa10a",
+      "uid": "03fdc202ebd6c18bb916f9af100a3019",
+      "username": "renaudp"
+    },
+    "merkle_root": {
+      "ctime": 1668114500,
+      "hash": "660fd4e7e7260fdba3c1ea6cad66c1dbf79b5184a59b789072184fea3383fe82921f7fec0016f1403aab7d892eb012d478a80e663d59d8f22db210a4e3486978",
+      "hash_meta": "54186713bc1b97584efcfdecb1a76bec0dc9c6919d3762c3e2966880fe935a5d",
+      "seqno": 23529196
+    },
+    "service": {
+      "entropy": "xUNO2AIH+o6KleVKTNltfk/9",
+      "name": "github",
+      "username": "rpere"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1668114524,
+  "expire_in": 504576000,
+  "prev": "e06681a01f6da6db5a38880f5156e39f968cc5a827989374e894a4ed6890b651",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSgULCCsoolYf/KjTJP/d2+RzeSuquqxukvpGn/G1qqEKp3BheWxvYWTESpcCBMQg4GaBoB9tpttaOIgPUVbjn5aMxagnmJN06JSk7WiQtlHEIJsYTHQsg4iCfDOkQL+uD++OyaEA/cytLpeAjjPKxvTgAgHCo3NpZ8RAcnqZ6fM62PaNyYDoZFKF0uzgmCZGfrLXMfhpD5/lh5IBO2IzRcoumvP5EjFSBSBIXCRV1N0Y6JrVo8JBB6M/D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAD0Fakts6GaN9CaK6n5aIYSDWp99Eisjz7G8P8BmN8+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/renaudp
+
+==================================================================

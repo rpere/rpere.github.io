@@ -1,0 +1,59 @@
+/*
+The contents of this file have been copied from many places. I will strive
+to link back to them here, because I think its cool to acknowledge borrowed
+code.
+http://bl.ocks.org/
+*/
+/*
+The following changes were contributed by Prakhar Srivastav
+(http://prakhar.me/). Many thanks for him for his contribution!
+Changes:
+1. Best to stick to one unit of measurement either em or px.
+2. Use max-widths so that you can make your content responsive.
+3. If you use margin: a b, then top and bottom get a and right left get b.
+   Leads to cleaner rules
+4. a(:not)(:hover) is not recommended (cross-browser issues) instead use
+   two rules for a and a:hover
+*/
+@import "rouge_style.css";
+
+body {
+  font-family: "PT Serif", serif;
+  margin: 40px auto;
+  max-width: 760px;
+  padding: 20px;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+p, ol {
+  line-height: 30px;
+}
+
+h1 {
+  font-size: 64px;
+  font-weight: 300;
+  letter-spacing: -2px;
+  margin: 30px 0;
+}
+
+div.entry {
+  margin: 40px 0;
+}
+
+div.page-date {
+  font-style: italic;
+  float: left;
+  width: 150px;
+  text-align: right;
+}
+
+div.detail {
+  margin-left: 200px;
+}
